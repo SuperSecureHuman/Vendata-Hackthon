@@ -4,6 +4,8 @@
 
 There is some stop token issue with Phi - neverthless, the outputs are good enuf.
 
+  Update - Phi 2's custom modeling has issues with fill masking, which explains stop token issue. 
+
 ## Links of Loras
 
 [CodeLlama Vendata](https://huggingface.co/SuperSecureHuman/code-llama-peft-vendata)
