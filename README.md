@@ -4,7 +4,11 @@
 
 There is some stop token issue with Phi - neverthless, the outputs are good enuf.
 
-Both lora adapters will be put on huggingface hub and link will be put here shortly
+## Links of Loras
+
+[CodeLlama Vendata](https://huggingface.co/SuperSecureHuman/code-llama-peft-vendata)
+
+[Phi 2 - Vendata](https://huggingface.co/SuperSecureHuman/phi-2-vendata)
 
 I am not very well versed with web tech, so I can't test this model extensively.
 
